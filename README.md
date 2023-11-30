@@ -1,9 +1,7 @@
 ***Techniques, tools, best practices, and everything you need to learn machine learning!***
 
 
-Complete Machine Learning Package is a comprehensive repository containing 35 notebooks on Python programming, data manipulation, data analysis, data visualization, data cleaning, classical machine learning, Computer Vision, and Natural Language Processing(NLP). 
-
-All notebooks were created with the readers in mind. Every notebook starts with a high-level overview of any specific algorithm/concept being covered. Wherever possible, visuals are used to make things clear.
+The complete Machine Learning Package comprises 35 notebooks covering Python programming, data manipulation, analysis, visualization, cleaning, classical machine learning, Computer Vision, and Natural Language Processing(NLP). Each notebook provides a high-level overview of the topic and includes visuals to aid understanding.
 
 *******
 
@@ -11,7 +9,7 @@ All notebooks were created with the readers in mind. Every notebook starts with 
 
 The following are the tools covered in the Complete Machine Learning Package. They are popular tools that most machine learning engineers and data scientists need in one way or another and day to day. 
 
-* [Python](https://www.python.org) is a high-level programming language that is popular in the data community. With the rapid growth of the libraries and frameworks, this is the correct programming language for ML.
+* [Python](https://www.python.org) is a high-level programming language prevalent in the data community. With the rapid growth of the libraries and frameworks, this is the correct programming language for ML.
 
 * [NumPy](https://numpy.org) is a scientific computing tool for array or matrix operations. 
 
